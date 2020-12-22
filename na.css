@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-size: 85%;
+}
+.container{
+    display: grid;
+    grid-template-columns: 75px 80px 75px;
+    grid-auto-rows: 70px;
